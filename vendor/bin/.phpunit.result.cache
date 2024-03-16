@@ -1,1 +1,1 @@
-{"version":1,"defects":{"UniqueLettersCheckerTest::testHasUniqueLetters":7},"times":{"UniqueLettersCheckerTest::testHasUniqueLetters":0.002}}
+{"version":1,"defects":{"UniqueLettersCheckerTest::testHasUniqueLetters":7,"SuperDigitTest::testSuperDigit":7},"times":{"UniqueLettersCheckerTest::testHasUniqueLetters":0.125,"WordMergerTest::testMergeWords":0.014,"SuperDigitTest::testSuperDigit":0.002}}
